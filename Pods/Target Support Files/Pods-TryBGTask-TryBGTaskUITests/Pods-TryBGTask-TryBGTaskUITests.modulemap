@@ -1,0 +1,6 @@
+framework module Pods_TryBGTask_TryBGTaskUITests {
+  umbrella header "Pods-TryBGTask-TryBGTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
